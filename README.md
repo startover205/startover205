@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @startover205
 - 👀 I’m interested in iOS programming
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning TDD through iOS Lead Essentail courese
 - 💞️ I’m looking to collaborate on iOS App
 
 <!---
